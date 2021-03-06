@@ -1,0 +1,3 @@
+Hello from Git repo
+
+Added this new file
